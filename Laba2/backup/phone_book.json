@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Andrey",
+    "surname": "Chetvertkov",
+    "patronymic": "Mikhalovich",
+    "phone_number": "+79962400292",
+    "home_number": "-",
+    "address": "Yaroslavl",
+    "birth_date": "14-08-2001",
+    "sex": "male",
+    "status": "owner"
+  },
+  {
+    "name": "Jane",
+    "surname": "Flora",
+    "patronymic": "-",
+    "phone_number": "+18773555787",
+    "home_number": "569849",
+    "address": "Palo Alto, CA",
+    "birth_date": "19-04-1999",
+    "sex": "female",
+    "status": "colleague"
+  },
+  {
+    "name": "Name",
+    "surname": "Surname",
+    "patronymic": "Patronymic",
+    "phone_number": "+79999999999",
+    "home_number": "888888",
+    "address": "Adr",
+    "birth_date": "01-01-1970",
+    "sex": "male",
+    "status": "unknown"
+  },
+  {
+    "name": "Artem",
+    "surname": "Zolotov",
+    "patronymic": "Alekseevich",
+    "phone_number": "+79109761843",
+    "home_number": "-",
+    "address": "Yaroslavl",
+    "birth_date": "26-07-2001",
+    "sex": "male",
+    "status": "friend"
+  }
+]

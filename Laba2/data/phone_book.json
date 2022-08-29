@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Андрей",
+    "surname": "Четвертков",
+    "patronymic": "Михайлович",
+    "phone_number": "+79962400293",
+    "home_number": null,
+    "address": "Ярославль",
+    "birth_date": "2001-04-14",
+    "sex": "Мужской",
+    "status": "Владелец"
+  },
+  {
+    "name": "Jane",
+    "surname": "Flora",
+    "patronymic": null,
+    "phone_number": "+18773555787",
+    "home_number": "569849",
+    "address": "Palo Alto, CA",
+    "birth_date": "1999-04-11",
+    "sex": "Женский",
+    "status": "colleague"
+  },
+  {
+    "name": "Свят",
+    "surname": "Рудской",
+    "patronymic": "Александрович",
+    "phone_number": "+79912490019",
+    "home_number": "881278",
+    "address": null,
+    "birth_date": "1970-01-01",
+    "sex": "Мужской",
+    "status": "Доставка"
+  },
+  {
+    "name": "Артем",
+    "surname": "Золотов",
+    "patronymic": "Алексеевич",
+    "phone_number": "+79109761843",
+    "home_number": null,
+    "address": "Ярославль",
+    "birth_date": "2001-26-07",
+    "sex": "мужской",
+    "status": "Друг"
+  },
+  {
+    "name": "Антон",
+    "surname": "Малышев",
+    "patronymic": null,
+    "phone_number": "89038233256",
+    "home_number": null,
+    "address": null,
+    "birth_date": "2001-02-12",
+    "sex": "Мужской",
+    "status": "Друг"
+  },
+  {
+    "name": "Анна",
+    "surname": "Егорова",
+    "patronymic": "Владимировна",
+    "phone_number": "89202765921",
+    "home_number": null,
+    "address": "Панина 6",
+    "birth_date": "2002-04-13",
+    "sex": "женский",
+    "status": "Друг"
+  },
+  {
+    "name": "Andre",
+    "surname": "Andr",
+    "patronymic": null,
+    "phone_number": "13",
+    "home_number": "123",
+    "address": "sd",
+    "birth_date": "2111-11-14",
+    "sex": "sex",
+    "status": "ws"
+  }
+]
